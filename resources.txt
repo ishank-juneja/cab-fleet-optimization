@@ -1,0 +1,9 @@
+1. Project Vroom : Has libraries implemeting VRP algos written in CPP
+
+https://github.com/VROOM-Project/vroom
+Has a frontend map enabled interface
+
+2. https://github.com/wasinski/VRP
+
+Handles Capacitated VRP problem
+Has python code to implement BnB algo

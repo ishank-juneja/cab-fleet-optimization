@@ -1,0 +1,23 @@
+#All versions of jpg
+*.[jJ][pP][gG]
+*.tex
+*.pdf
+*.ods
+*.png
+*.eps
+*.aux
+*.log
+*.synctex.gz
+*.dat
+*.dvi
+*.ppt
+*.pptx
+*.odt
+*.odp
+*.ogv
+*.ps
+*.jpeg
+*.data
+*.mp3
+*.djvu
+!notes/*.pdf
